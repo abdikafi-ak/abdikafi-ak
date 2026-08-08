@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdikafi Maxamed
+# 👋 Hi, I'm Abdikafi Ak
 
 ### Full-Stack Developer | Software Engineer | Problem Solver
 
