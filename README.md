@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable, and p
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,nodejs,express,php,mysql,mongodb,reactnative,expo,git,github,vscode,postman,npm,vercel,python,jquery,ajax" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,nodejs,express,php,mysql,mongodb,reactnative,git,github,vscode,postman,npm,vercel,python,jquery" />
 </p>
 
 ---
