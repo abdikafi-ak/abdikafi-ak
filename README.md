@@ -19,36 +19,10 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable, and p
 
 ---
 
-# 🧰 Tech Stack
-
-### 🎨 Frontend
+## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 📱 Mobile
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-</p>
-
-### 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,nodejs,express,php,mysql,mongodb,reactnative,expo,git,github,vscode,postman,npm,vercel,linux" />
 </p>
 
 ### 🔐 Authentication & Security
@@ -61,42 +35,10 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable, and p
 
 ---
 
-# 🧩 Projects
-
-### 🎓 Taleex Student Portal
-
-Student-focused mobile platform for accessing academic information and services.
-
-**React Native · Expo · Node.js · Express.js · MySQL**
-
-### 🏫 Taleex Professional College Systems
-
-Education management systems covering student registration, academic programs, levels, branches, payments, promotions, graduation, and administration.
-
-**PHP · MySQL · JavaScript · jQuery**
-
-### 🛒 DalabZone
-
-Full-stack e-commerce application with separate frontend and backend architecture.
-
-**React · Node.js · Express.js · MySQL**
-
-### 🖊️ TaleexPC Drawer
-
-Interactive browser-based drawing and diagramming tool.
-
-**React · tldraw**
-
----
-
 ## 📚 Currently Learning
 
 **Next.js · OAuth · Advanced Authentication · Backend Architecture · System Design · Database Architecture · API Security**
 
 ---
 
-<div align="center">
-
 ### ⚡ Build. Learn. Improve. Repeat.
-
-</div>
