@@ -26,19 +26,6 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable, and p
 </p>
 
 ### 🔐 Authentication & Security
-
 `JWT` `OAuth 2.0` `Google OAuth` `Access Tokens` `Refresh Tokens` `HTTP-only Cookies` `RBAC`
-
-### 🧠 State Management
-
-`Zustand` `React State` `Local Storage` `AsyncStorage`
-
----
-
-## 📚 Currently Learning
-
-**Next.js · OAuth · Advanced Authentication · Backend Architecture · System Design · Database Architecture · API Security**
-
----
 
 ### ⚡ Build. Learn. Improve. Repeat.
