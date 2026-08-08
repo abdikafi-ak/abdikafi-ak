@@ -22,10 +22,7 @@ I'm a **Full-Stack Developer** passionate about building modern, scalable, and p
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,nodejs,express,php,mysql,mongodb,reactnative,expo,git,github,vscode,postman,npm,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,bootstrap,vite,nodejs,express,php,mysql,mongodb,reactnative,expo,git,github,vscode,postman,npm,vercel" />
 </p>
-
-### 🔐 Authentication & Security
-`JWT` `OAuth 2.0` `Google OAuth` `Access Tokens` `Refresh Tokens` `HTTP-only Cookies` `RBAC`
-
+---
 ### ⚡ Build. Learn. Improve. Repeat.
